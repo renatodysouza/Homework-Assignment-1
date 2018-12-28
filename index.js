@@ -95,7 +95,7 @@ server.listen(config.httpPort, function () {
 // Sampler handlers   
    handlers.hello = function(data, callback) {
        // callback a http status code, and a payload object
-       callback(406, {'message': 'welcome to node Api'});
+       callback(200, {'message': 'welcome to node Api'});
    }
 
 // Not found handlers
