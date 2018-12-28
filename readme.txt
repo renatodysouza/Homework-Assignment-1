@@ -1,6 +1,6 @@
 Homework Assignment #1
 
-Main objective
+Main objectives
 
 The Assignment:
 
